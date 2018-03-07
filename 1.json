@@ -1,0 +1,497 @@
+{
+    "confidence": 0.97186122,
+    "transcript": "Hi Kevin Good morning Hi Rohan Good morning Do we have everyone on the call Yes I have the complete off shore mobile development team with me Great Lets get started We have been planning version 2 of our mobile apps and in the last week me and Rohan sat together and worked on the back log items as well as added a few new features to the sprint I hope everyone has gone through the sprint plan and assigned tasks So Lets quickly share updates on current tasks Rohan why dont you go first Yes sure kevin",
+    "startTimestamp": 1519560000,
+    "words": [
+        {
+            "startTime": "0.3s",
+            "endTime": "0.6s",
+            "word": "Hi"
+        },
+        {
+            "startTime": "0.6s",
+            "endTime": "1.0s",
+            "word": "Kevin"
+        },
+        {
+            "startTime": "1.0s",
+            "endTime": "1.4s",
+            "word": "Good"
+        },
+        {
+            "startTime": "1.4s",
+            "endTime": "1.8s",
+            "word": "morning"
+        },
+        {
+            "startTime": "1.8s",
+            "endTime": "2.2s",
+            "word": "Hi"
+        },
+        {
+            "startTime": "2.2s",
+            "endTime": "2.6s",
+            "word": "Rohan"
+        },
+        {
+            "startTime": "2.6s",
+            "endTime": "3.0s",
+            "word": "Good"
+        },
+        {
+            "startTime": "3.0s",
+            "endTime": "3.4s",
+            "word": "morning"
+        },
+        {
+            "startTime": "3.4s",
+            "endTime": "3.8s",
+            "word": "Do"
+        },
+        {
+            "startTime": "3.8s",
+            "endTime": "4.2s",
+            "word": "we"
+        },
+        {
+            "startTime": "4.2s",
+            "endTime": "4.6s",
+            "word": "have"
+        },
+        {
+            "startTime": "4.6s",
+            "endTime": "5.0s",
+            "word": "everyone"
+        },
+        {
+            "startTime": "5.0s",
+            "endTime": "5.4s",
+            "word": "on"
+        },
+        {
+            "startTime": "5.4s",
+            "endTime": "5.8s",
+            "word": "the"
+        },
+        {
+            "startTime": "5.8s",
+            "endTime": "6.2s",
+            "word": "call"
+        },
+        {
+            "startTime": "6.2s",
+            "endTime": "6.6s",
+            "word": "Yes"
+        },
+        {
+            "startTime": "6.6s",
+            "endTime": "7.0s",
+            "word": "I"
+        },
+        {
+            "startTime": "7.0s",
+            "endTime": "7.4s",
+            "word": "have"
+        },
+        {
+            "startTime": "7.4s",
+            "endTime": "7.8s",
+            "word": "the"
+        },
+        {
+            "startTime": "7.8s",
+            "endTime": "8.2s",
+            "word": "complete"
+        },
+        {
+            "startTime": "8.2s",
+            "endTime": "8.6s",
+            "word": "off"
+        },
+        {
+            "startTime": "8.6s",
+            "endTime": "9.0s",
+            "word": "shore"
+        },
+        {
+            "startTime": "9.0s",
+            "endTime": "9.4s",
+            "word": "mobile"
+        },
+        {
+            "startTime": "9.4s",
+            "endTime": "9.8s",
+            "word": "development"
+        },
+        {
+            "startTime": "9.8s",
+            "endTime": "10.2s",
+            "word": "team"
+        },
+        {
+            "startTime": "10.2s",
+            "endTime": "10.6s",
+            "word": "with"
+        },
+        {
+            "startTime": "10.6s",
+            "endTime": "11.0s",
+            "word": "me"
+        },
+        {
+            "startTime": "11.0s",
+            "endTime": "11.4s",
+            "word": "Great"
+        },
+        {
+            "startTime": "11.4s",
+            "endTime": "11.8s",
+            "word": "Lets"
+        },
+        {
+            "startTime": "11.8s",
+            "endTime": "12.2s",
+            "word": "get"
+        },
+        {
+            "startTime": "12.2s",
+            "endTime": "12.6s",
+            "word": "started"
+        },
+        {
+            "startTime": "12.6s",
+            "endTime": "13.0s",
+            "word": "We"
+        },
+        {
+            "startTime": "13.0s",
+            "endTime": "13.4s",
+            "word": "have"
+        },
+        {
+            "startTime": "13.4s",
+            "endTime": "13.8s",
+            "word": "been"
+        },
+        {
+            "startTime": "13.8s",
+            "endTime": "14.2s",
+            "word": "planning"
+        },
+        {
+            "startTime": "14.2s",
+            "endTime": "14.6s",
+            "word": "version"
+        },
+        {
+            "startTime": "14.6s",
+            "endTime": "15.0s",
+            "word": "2"
+        },
+        {
+            "startTime": "15.0s",
+            "endTime": "15.4s",
+            "word": "of"
+        },
+        {
+            "startTime": "15.4s",
+            "endTime": "15.8s",
+            "word": "our"
+        },
+        {
+            "startTime": "15.8s",
+            "endTime": "16.2s",
+            "word": "mobile"
+        },
+        {
+            "startTime": "16.2s",
+            "endTime": "16.6s",
+            "word": "apps"
+        },
+        {
+            "startTime": "16.6s",
+            "endTime": "17.0s",
+            "word": "and"
+        },
+        {
+            "startTime": "17.0s",
+            "endTime": "17.4s",
+            "word": "in"
+        },
+        {
+            "startTime": "17.4s",
+            "endTime": "17.8s",
+            "word": "the"
+        },
+        {
+            "startTime": "17.8s",
+            "endTime": "18.2s",
+            "word": "last"
+        },
+        {
+            "startTime": "18.2s",
+            "endTime": "18.6s",
+            "word": "week"
+        },
+        {
+            "startTime": "18.6s",
+            "endTime": "19.0s",
+            "word": "me"
+        },
+        {
+            "startTime": "19.0s",
+            "endTime": "19.4s",
+            "word": "and"
+        },
+        {
+            "startTime": "19.4s",
+            "endTime": "19.8s",
+            "word": "Rohan"
+        },
+        {
+            "startTime": "19.8s",
+            "endTime": "20.2s",
+            "word": "sat"
+        },
+        {
+            "startTime": "20.2s",
+            "endTime": "20.6s",
+            "word": "together"
+        },
+        {
+            "startTime": "20.6s",
+            "endTime": "21.0s",
+            "word": "and"
+        },
+        {
+            "startTime": "21.0s",
+            "endTime": "21.4s",
+            "word": "worked"
+        },
+        {
+            "startTime": "21.4s",
+            "endTime": "21.8s",
+            "word": "on"
+        },
+        {
+            "startTime": "21.8s",
+            "endTime": "22.2s",
+            "word": "the"
+        },
+        {
+            "startTime": "22.2s",
+            "endTime": "22.6s",
+            "word": "back"
+        },
+        {
+            "startTime": "22.6s",
+            "endTime": "23.0s",
+            "word": "log"
+        },
+        {
+            "startTime": "23.0s",
+            "endTime": "23.4s",
+            "word": "items"
+        },
+        {
+            "startTime": "23.4s",
+            "endTime": "23.8s",
+            "word": "as"
+        },
+        {
+            "startTime": "23.8s",
+            "endTime": "24.2s",
+            "word": "well"
+        },
+        {
+            "startTime": "24.2s",
+            "endTime": "24.6s",
+            "word": "as"
+        },
+        {
+            "startTime": "24.6s",
+            "endTime": "25.0s",
+            "word": "added"
+        },
+        {
+            "startTime": "25.0s",
+            "endTime": "25.4s",
+            "word": "a"
+        },
+        {
+            "startTime": "25.4s",
+            "endTime": "25.8s",
+            "word": "few"
+        },
+        {
+            "startTime": "25.8s",
+            "endTime": "26.2s",
+            "word": "new"
+        },
+        {
+            "startTime": "26.2s",
+            "endTime": "26.6s",
+            "word": "features"
+        },
+        {
+            "startTime": "26.6s",
+            "endTime": "27.0s",
+            "word": "to"
+        },
+        {
+            "startTime": "27.0s",
+            "endTime": "27.4s",
+            "word": "the"
+        },
+        {
+            "startTime": "27.4s",
+            "endTime": "27.8s",
+            "word": "sprint"
+        },
+        {
+            "startTime": "27.8s",
+            "endTime": "28.2s",
+            "word": "I"
+        },
+        {
+            "startTime": "28.2s",
+            "endTime": "28.6s",
+            "word": "hope"
+        },
+        {
+            "startTime": "28.6s",
+            "endTime": "29.0s",
+            "word": "everyone"
+        },
+        {
+            "startTime": "29.0s",
+            "endTime": "29.4s",
+            "word": "has"
+        },
+        {
+            "startTime": "29.4s",
+            "endTime": "29.8s",
+            "word": "gone"
+        },
+        {
+            "startTime": "29.8s",
+            "endTime": "30.2s",
+            "word": "through"
+        },
+        {
+            "startTime": "30.2s",
+            "endTime": "30.6s",
+            "word": "the"
+        },
+        {
+            "startTime": "30.6s",
+            "endTime": "31.0s",
+            "word": "sprint"
+        },
+        {
+            "startTime": "31.0s",
+            "endTime": "31.4s",
+            "word": "plan"
+        },
+        {
+            "startTime": "31.4s",
+            "endTime": "31.8s",
+            "word": "and"
+        },
+        {
+            "startTime": "31.8s",
+            "endTime": "32.2s",
+            "word": "assigned"
+        },
+        {
+            "startTime": "32.2s",
+            "endTime": "32.6s",
+            "word": "tasks"
+        },
+        {
+            "startTime": "32.6s",
+            "endTime": "33.0s",
+            "word": "So"
+        },
+        {
+            "startTime": "33.0s",
+            "endTime": "33.4s",
+            "word": "Lets"
+        },
+        {
+            "startTime": "33.4s",
+            "endTime": "33.8s",
+            "word": "quickly"
+        },
+        {
+            "startTime": "33.8s",
+            "endTime": "34.2s",
+            "word": "share"
+        },
+        {
+            "startTime": "34.2s",
+            "endTime": "34.6s",
+            "word": "updates"
+        },
+        {
+            "startTime": "34.6s",
+            "endTime": "35.0s",
+            "word": "on"
+        },
+        {
+            "startTime": "35.0s",
+            "endTime": "35.4s",
+            "word": "current"
+        },
+        {
+            "startTime": "35.4s",
+            "endTime": "35.8s",
+            "word": "tasks"
+        },
+        {
+            "startTime": "35.8s",
+            "endTime": "36.2s",
+            "word": "Rohan"
+        },
+        {
+            "startTime": "36.2s",
+            "endTime": "36.6s",
+            "word": "why"
+        },
+        {
+            "startTime": "36.6s",
+            "endTime": "37.0s",
+            "word": "dont"
+        },
+        {
+            "startTime": "37.0s",
+            "endTime": "37.4s",
+            "word": "you"
+        },
+        {
+            "startTime": "37.4s",
+            "endTime": "37.8s",
+            "word": "go"
+        },
+        {
+            "startTime": "37.8s",
+            "endTime": "38.2s",
+            "word": "first"
+        },
+        {
+            "startTime": "38.2s",
+            "endTime": "38.6s",
+            "word": "Yes"
+        },
+        {
+            "startTime": "38.6s",
+            "endTime": "39.0s",
+            "word": "sure"
+        },
+        {
+            "startTime": "39.0s",
+            "endTime": "39.4s",
+            "word": "kevin"
+        }
+    ]
+}

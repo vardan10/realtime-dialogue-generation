@@ -1,0 +1,517 @@
+{
+    "confidence": 0.97186122,
+    "transcript": "So I have picked up task 12 which is implementing login with google module in the iOS application I will be exploring how to go about this task and find if there are any SDK is available to integrate single sign on Kevin any updates from the UX team regarding wireframes Hmm no The UX team is currently still working on the app screen design Okay I will check what backend changes will be required for implementing this module and get back to you I will send a mail to you kevin with the backend changes necessary Oh okay I wasnt anticipating",
+    "startTimestamp": 1519560060,
+    "words": [
+        {
+            "startTime": "0.3s",
+            "endTime": "0.6s",
+            "word": "So"
+        },
+        {
+            "startTime": "0.6s",
+            "endTime": "1.0s",
+            "word": "I"
+        },
+        {
+            "startTime": "1.0s",
+            "endTime": "1.4s",
+            "word": "have"
+        },
+        {
+            "startTime": "1.4s",
+            "endTime": "1.8s",
+            "word": "picked"
+        },
+        {
+            "startTime": "1.8s",
+            "endTime": "2.2s",
+            "word": "up"
+        },
+        {
+            "startTime": "2.2s",
+            "endTime": "2.6s",
+            "word": "task"
+        },
+        {
+            "startTime": "2.6s",
+            "endTime": "3.0s",
+            "word": "12"
+        },
+        {
+            "startTime": "3.0s",
+            "endTime": "3.4s",
+            "word": "which"
+        },
+        {
+            "startTime": "3.4s",
+            "endTime": "3.8s",
+            "word": "is"
+        },
+        {
+            "startTime": "3.8s",
+            "endTime": "4.2s",
+            "word": "implementing"
+        },
+        {
+            "startTime": "4.2s",
+            "endTime": "4.6s",
+            "word": "login"
+        },
+        {
+            "startTime": "4.6s",
+            "endTime": "5.0s",
+            "word": "with"
+        },
+        {
+            "startTime": "5.0s",
+            "endTime": "5.4s",
+            "word": "google"
+        },
+        {
+            "startTime": "5.4s",
+            "endTime": "5.8s",
+            "word": "module"
+        },
+        {
+            "startTime": "5.8s",
+            "endTime": "6.2s",
+            "word": "in"
+        },
+        {
+            "startTime": "6.2s",
+            "endTime": "6.6s",
+            "word": "the"
+        },
+        {
+            "startTime": "6.6s",
+            "endTime": "7.0s",
+            "word": "iOS"
+        },
+        {
+            "startTime": "7.0s",
+            "endTime": "7.4s",
+            "word": "application"
+        },
+        {
+            "startTime": "7.4s",
+            "endTime": "7.8s",
+            "word": "I"
+        },
+        {
+            "startTime": "7.8s",
+            "endTime": "8.2s",
+            "word": "will"
+        },
+        {
+            "startTime": "8.2s",
+            "endTime": "8.6s",
+            "word": "be"
+        },
+        {
+            "startTime": "8.6s",
+            "endTime": "9.0s",
+            "word": "exploring"
+        },
+        {
+            "startTime": "9.0s",
+            "endTime": "9.4s",
+            "word": "how"
+        },
+        {
+            "startTime": "9.4s",
+            "endTime": "9.8s",
+            "word": "to"
+        },
+        {
+            "startTime": "9.8s",
+            "endTime": "10.2s",
+            "word": "go"
+        },
+        {
+            "startTime": "10.2s",
+            "endTime": "10.6s",
+            "word": "about"
+        },
+        {
+            "startTime": "10.6s",
+            "endTime": "11.0s",
+            "word": "this"
+        },
+        {
+            "startTime": "11.0s",
+            "endTime": "11.4s",
+            "word": "task"
+        },
+        {
+            "startTime": "11.4s",
+            "endTime": "11.8s",
+            "word": "and"
+        },
+        {
+            "startTime": "11.8s",
+            "endTime": "12.2s",
+            "word": "find"
+        },
+        {
+            "startTime": "12.2s",
+            "endTime": "12.6s",
+            "word": "if"
+        },
+        {
+            "startTime": "12.6s",
+            "endTime": "13.0s",
+            "word": "there"
+        },
+        {
+            "startTime": "13.0s",
+            "endTime": "13.4s",
+            "word": "are"
+        },
+        {
+            "startTime": "13.4s",
+            "endTime": "13.8s",
+            "word": "any"
+        },
+        {
+            "startTime": "13.8s",
+            "endTime": "14.2s",
+            "word": "SDK"
+        },
+        {
+            "startTime": "14.2s",
+            "endTime": "14.6s",
+            "word": "is"
+        },
+        {
+            "startTime": "14.6s",
+            "endTime": "15.0s",
+            "word": "available"
+        },
+        {
+            "startTime": "15.0s",
+            "endTime": "15.4s",
+            "word": "to"
+        },
+        {
+            "startTime": "15.4s",
+            "endTime": "15.8s",
+            "word": "integrate"
+        },
+        {
+            "startTime": "15.8s",
+            "endTime": "16.2s",
+            "word": "single"
+        },
+        {
+            "startTime": "16.2s",
+            "endTime": "16.6s",
+            "word": "sign"
+        },
+        {
+            "startTime": "16.6s",
+            "endTime": "17.0s",
+            "word": "on"
+        },
+        {
+            "startTime": "17.0s",
+            "endTime": "17.4s",
+            "word": "Kevin"
+        },
+        {
+            "startTime": "17.4s",
+            "endTime": "17.8s",
+            "word": "any"
+        },
+        {
+            "startTime": "17.8s",
+            "endTime": "18.2s",
+            "word": "updates"
+        },
+        {
+            "startTime": "18.2s",
+            "endTime": "18.6s",
+            "word": "from"
+        },
+        {
+            "startTime": "18.6s",
+            "endTime": "19.0s",
+            "word": "the"
+        },
+        {
+            "startTime": "19.0s",
+            "endTime": "19.4s",
+            "word": "UX"
+        },
+        {
+            "startTime": "19.4s",
+            "endTime": "19.8s",
+            "word": "team"
+        },
+        {
+            "startTime": "19.8s",
+            "endTime": "20.2s",
+            "word": "regarding"
+        },
+        {
+            "startTime": "20.2s",
+            "endTime": "20.6s",
+            "word": "wireframes"
+        },
+        {
+            "startTime": "20.6s",
+            "endTime": "21.0s",
+            "word": "Hmm"
+        },
+        {
+            "startTime": "21.0s",
+            "endTime": "21.4s",
+            "word": "no"
+        },
+        {
+            "startTime": "21.4s",
+            "endTime": "21.8s",
+            "word": "The"
+        },
+        {
+            "startTime": "21.8s",
+            "endTime": "22.2s",
+            "word": "UX"
+        },
+        {
+            "startTime": "22.2s",
+            "endTime": "22.6s",
+            "word": "team"
+        },
+        {
+            "startTime": "22.6s",
+            "endTime": "23.0s",
+            "word": "is"
+        },
+        {
+            "startTime": "23.0s",
+            "endTime": "23.4s",
+            "word": "currently"
+        },
+        {
+            "startTime": "23.4s",
+            "endTime": "23.8s",
+            "word": "still"
+        },
+        {
+            "startTime": "23.8s",
+            "endTime": "24.2s",
+            "word": "working"
+        },
+        {
+            "startTime": "24.2s",
+            "endTime": "24.6s",
+            "word": "on"
+        },
+        {
+            "startTime": "24.6s",
+            "endTime": "25.0s",
+            "word": "the"
+        },
+        {
+            "startTime": "25.0s",
+            "endTime": "25.4s",
+            "word": "app"
+        },
+        {
+            "startTime": "25.4s",
+            "endTime": "25.8s",
+            "word": "screen"
+        },
+        {
+            "startTime": "25.8s",
+            "endTime": "26.2s",
+            "word": "design"
+        },
+        {
+            "startTime": "26.2s",
+            "endTime": "26.6s",
+            "word": "Okay"
+        },
+        {
+            "startTime": "26.6s",
+            "endTime": "27.0s",
+            "word": "I"
+        },
+        {
+            "startTime": "27.0s",
+            "endTime": "27.4s",
+            "word": "will"
+        },
+        {
+            "startTime": "27.4s",
+            "endTime": "27.8s",
+            "word": "check"
+        },
+        {
+            "startTime": "27.8s",
+            "endTime": "28.2s",
+            "word": "what"
+        },
+        {
+            "startTime": "28.2s",
+            "endTime": "28.6s",
+            "word": "backend"
+        },
+        {
+            "startTime": "28.6s",
+            "endTime": "29.0s",
+            "word": "changes"
+        },
+        {
+            "startTime": "29.0s",
+            "endTime": "29.4s",
+            "word": "will"
+        },
+        {
+            "startTime": "29.4s",
+            "endTime": "29.8s",
+            "word": "be"
+        },
+        {
+            "startTime": "29.8s",
+            "endTime": "30.2s",
+            "word": "required"
+        },
+        {
+            "startTime": "30.2s",
+            "endTime": "30.6s",
+            "word": "for"
+        },
+        {
+            "startTime": "30.6s",
+            "endTime": "31.0s",
+            "word": "implementing"
+        },
+        {
+            "startTime": "31.0s",
+            "endTime": "31.4s",
+            "word": "this"
+        },
+        {
+            "startTime": "31.4s",
+            "endTime": "31.8s",
+            "word": "module"
+        },
+        {
+            "startTime": "31.8s",
+            "endTime": "32.2s",
+            "word": "and"
+        },
+        {
+            "startTime": "32.2s",
+            "endTime": "32.6s",
+            "word": "get"
+        },
+        {
+            "startTime": "32.6s",
+            "endTime": "33.0s",
+            "word": "back"
+        },
+        {
+            "startTime": "33.0s",
+            "endTime": "33.4s",
+            "word": "to"
+        },
+        {
+            "startTime": "33.4s",
+            "endTime": "33.8s",
+            "word": "you"
+        },
+        {
+            "startTime": "33.8s",
+            "endTime": "34.2s",
+            "word": "I"
+        },
+        {
+            "startTime": "34.2s",
+            "endTime": "34.6s",
+            "word": "will"
+        },
+        {
+            "startTime": "34.6s",
+            "endTime": "35.0s",
+            "word": "send"
+        },
+        {
+            "startTime": "35.0s",
+            "endTime": "35.4s",
+            "word": "a"
+        },
+        {
+            "startTime": "35.4s",
+            "endTime": "35.8s",
+            "word": "mail"
+        },
+        {
+            "startTime": "35.8s",
+            "endTime": "36.2s",
+            "word": "to"
+        },
+        {
+            "startTime": "36.2s",
+            "endTime": "36.6s",
+            "word": "you"
+        },
+        {
+            "startTime": "36.6s",
+            "endTime": "37.0s",
+            "word": "kevin"
+        },
+        {
+            "startTime": "37.0s",
+            "endTime": "37.4s",
+            "word": "with"
+        },
+        {
+            "startTime": "37.4s",
+            "endTime": "37.8s",
+            "word": "the"
+        },
+        {
+            "startTime": "37.8s",
+            "endTime": "38.2s",
+            "word": "backend"
+        },
+        {
+            "startTime": "38.2s",
+            "endTime": "38.6s",
+            "word": "changes"
+        },
+        {
+            "startTime": "38.6s",
+            "endTime": "39.0s",
+            "word": "necessary"
+        },
+        {
+            "startTime": "39.0s",
+            "endTime": "39.4s",
+            "word": "Oh"
+        },
+        {
+            "startTime": "39.4s",
+            "endTime": "39.8s",
+            "word": "okay"
+        },
+        {
+            "startTime": "39.8s",
+            "endTime": "40.2s",
+            "word": "I"
+        },
+        {
+            "startTime": "40.2s",
+            "endTime": "40.6s",
+            "word": "wasnt"
+        },
+        {
+            "startTime": "40.6s",
+            "endTime": "41.0s",
+            "word": "anticipating"
+        }
+    ]
+}
